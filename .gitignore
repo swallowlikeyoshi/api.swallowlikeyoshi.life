@@ -1,0 +1,6 @@
+.*
+!.gitignore
+
+/__*__
+
+isDev.py
